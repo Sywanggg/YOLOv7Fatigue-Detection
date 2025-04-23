@@ -3,7 +3,7 @@
 
 系统主界面：
 本系统在PyCharm中运行。打开系统，进入系统主界面，如下图所示：
-
+![Image text](https://github.com/Sywanggg/YOLOv7Fatigue-Detection/blob/main/IMG/%E5%9B%BE%E7%89%871.png)
 
 系统功能实现：
 本系统的数据传入提供了本地视频上传和摄像头实时采集两种数据传入按钮。
