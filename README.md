@@ -1,3 +1,6 @@
+百度网盘YOLOv7Fatigue Detection.zip
+链接: https://pan.baidu.com/s/1v_nR4baMXyjnEpFMxY8nbw?pwd=5qfw 提取码: 5qfw
+
 环境配置：
 本系统编写了requirement.txt，文件中包含了系统所需的python第三方库。Windows系统在有anaconda的情况下双击start.bat会自动安装所需环境，也可在PyCharm中自动安装。（Mac系统由于第三方库权限问题无法发出语音警报）。
 
@@ -13,3 +16,4 @@
 参数设置部分可以设置指定的阈值和延迟显示帧数，延迟显示帧数为指定多少帧后重新测定疲劳状态，避免持续报警。
 其实时状态同步在界面的“实时状态”框中。
 检测目标达到疲劳状态时会触发疲劳警报`Fatigue!`，同时会发出语音警报。
+
